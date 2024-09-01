@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oh7rhhV0+lzuU36PJAWlLGYhA7V6L4V3MCvuA9qWeUEyYG4Q7fCpsbXADSNJ3I53p9iR6EzBCKAhm2d5yQp32g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vanes\\OneDrive\\PROGRAMAS.2BIMESTRE\\TRAPALHOAPIAVA\\TRAPALHOAPIAVA\\TRAPALHOAPIAVA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vanes\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\vanes\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\vanes\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\vanes\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\vanes\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\vanes\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
